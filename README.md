@@ -1,6 +1,6 @@
 # Genome breakdown
 
-This data set is part of the *Polistes dominula* genome project, and describes the protocol used for computing a breakdown of the genome into various categories and comparison to related species, as described in (Standage *et al.*, *Molecular Ecology*, 2016).
+This data set is part of the [*Polistes dominula* genome project][pdomproj], and describes the protocol used for computing a breakdown of the genome into various categories and comparison to related species, as described in ([Standage *et al.*, *Molecular Ecology*, 2016][ref]).
 Included in this data set are instructions for collecting and preprocessing the comparative genomics data, the scripts used for calculating the breakdown, and the code for plotting the breakdown.
 
 ## Procedure
@@ -45,6 +45,8 @@ Finally, the breakdowns of genome content are plotted as bar plots as shown in t
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)][ccby4]  
 This work is licensed under a [Creative Commons Attribution 4.0 International License][ccby4].
 
+[pdomproj]: https://github.com/PdomGenomeProject
+[ref]: http://dx.doi.org/10.1111/mec.13578
 [genhub]: https://standage.github.io/genhub
 [genhub-v0.3.1]: https://github.com/standage/genhub/releases/tag/0.3.1
 [ccby4]: http://creativecommons.org/licenses/by/4.0/
