@@ -4,3 +4,4 @@ GenHub.*
 HymHub.*
 setup
 *.swp
+.ipynb_checkpoints

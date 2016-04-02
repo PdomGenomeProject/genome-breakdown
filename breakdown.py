@@ -79,7 +79,7 @@ def main(args):
         elif ilclass == 'niLocus':
             breakdown[species]['ncRNA'].append(values)
         else:
-            assert ilclass == 'piLocus', ilclass
+            assert ilclass == 'siLocus', ilclass
             if ilcid in orphan_iloci:
                 breakdown[species]['Orphan'].append(values)
             elif ilcid in conserved_iloci:

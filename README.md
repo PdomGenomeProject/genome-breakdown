@@ -5,7 +5,7 @@ Included in this data set are instructions for collecting and preprocessing the 
 
 ## Procedure
 
-Annotated genomes for for 20 Hymenopteran species were collected from NCBI and various other sources using [GenHub][genhub] version [0.3.1][genhub-v0.3.1].
+Annotated genomes for for 20 Hymenopteran species were collected from NCBI and various other sources using [GenHub][genhub] version [0.3.8][genhub-v0.3.8].
 
 ```bash
 time genhub-build.py --cfgdir=cfg --batch=hymhub \
@@ -48,5 +48,5 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [pdomproj]: https://github.com/PdomGenomeProject
 [ref]: http://dx.doi.org/10.1111/mec.13578
 [genhub]: https://standage.github.io/genhub
-[genhub-v0.3.1]: https://github.com/standage/genhub/releases/tag/0.3.1
+[genhub-v0.3.8]: https://github.com/standage/genhub/releases/tag/0.3.8
 [ccby4]: http://creativecommons.org/licenses/by/4.0/
